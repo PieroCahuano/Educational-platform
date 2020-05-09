@@ -1,1 +1,1 @@
-# EntrenamientoEspol
+# Plataforma educativa
